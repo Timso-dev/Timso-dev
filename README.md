@@ -47,8 +47,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Timso-dev&label=Vues%20du%20profil&color=0e75b6&style=flat)
 ![Last Commit](https://img.shields.io/github/last-commit/Timso-dev/Timso-dev?label=Dernier%20commit&color=green)
 
-![Corentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timso-dev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timso-dev&layout=compact&theme=tokyonight)
+![Corentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timso-dev&show_icons=true&theme=tokyonight&cache_seconds=300&v=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timso-dev&layout=compact&theme=tokyonight&cache_seconds=300&v=1)
 
 ---
 
