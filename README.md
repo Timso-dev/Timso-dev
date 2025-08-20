@@ -1,11 +1,49 @@
 <!-- Custom banner -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:20232A&height=200&section=header&text=Timso%20Dev&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Corentin Poret
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&random=false&width=400&lines=Corentin+Poret;Full-Stack%20Developer;React%2FNode.js%20Expert;Ocean%20Conservation%20Advocate;AKOA%20Co-founder&typeSpeed=80&deleteSpeed=60&size=28" alt="Corentin Poret" align="middle" />
 
 💡 Passionate full-stack developer who loves creating useful, performant, and user-friendly applications.  
 🎯 My goal: combining **technical skills**, **design**, and **positive impact** in every project.  
 🌊 Co-founder of the **AKOA** project, a community application for ocean preservation.  
+👯 Looking to collaborate on **environmental tech projects**. 
+
+## 📫 Let's Connect
+
+  <a href="your-linkedin-url">
+    <img src="https://img.icons8.com/material/48/61DAFB/linkedin.png" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="your-discord-url">
+    <img src="https://img.icons8.com/material/48/61DAFB/discord-logo.png" alt="Discord" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="your-instagram-url">
+    <img src="https://img.icons8.com/material/48/61DAFB/instagram-new.png" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="your-x-url">
+    <img src="https://img.icons8.com/material/48/61DAFB/twitter.png" alt="X" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:contact@timsolab.com">
+    <img src="https://img.icons8.com/material/48/61DAFB/gmail.png" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://timsolab.com">
+    <img src="https://img.icons8.com/material/48/61DAFB/chrome.png" alt="TimsoLab" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://corentinporet.com">
+    <img src="https://img.icons8.com/material/48/61DAFB/firefox.png" alt="Portfolio" />
+  </a>
+
+---
+
+## 🎓 Education & Certifications
+- 🎓 **Software Engineering Degree** - UniLaSalle Amiens
+- 📜 **React Developer Certification**
+- 📜 **Node.js Developer Certification**
 
 ---
 
@@ -50,13 +88,25 @@
 ## 🚀 Featured Projects
 
 ### 🌊 [AKOA](https://github.com/akoa) – Environmental Community Application
-- Interactive map to locate ocean preservation events
-- Point system and marine animal collection
+**Tech Stack:** React.js, Node.js, MongoDB, Socket.io  
+**Features:**
+- 🗺️ Interactive map with real-time events
+- 🏆 Gamification system with marine animal collection
+- 👥 Community-driven content moderation
+- 📱 Progressive Web App (PWA)
 
 ### 🎟️ Real-time Ticket Management Application
-- Ticket management via **WebSocket**
-- Advanced statistics page (MTTR, first contact, resolution rate)
-- Built with **React.js** + **Node.js** + **SQL Server**
+**Tech Stack:** React.js, Node.js, SQL Server, WebSocket  
+**Features:**
+- 🔄 Real-time ticket management via WebSocket
+- 📊 Advanced statistics dashboard (MTTR, first contact, resolution rate)
+- 👥 Multi-user collaboration system
+- 📈 Performance analytics and reporting
+
+---
+
+## 🏆 Achievements
+- 🏅 Winner of **[Ocean Hackathon 2023 of Boulogne-sur-mer]** for environmental innovation
 
 ---
 
@@ -66,6 +116,10 @@
 
 ![Corentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timso-dev&show_icons=true&theme=tokyonight&cache_seconds=300&v=1)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timso-dev&layout=compact&theme=tokyonight&cache_seconds=300&v=1)
+
+## 📈 Coding Activity
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Timso-dev&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Timso-dev&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true)
 
 ---
 
