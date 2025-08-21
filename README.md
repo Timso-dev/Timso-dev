@@ -10,20 +10,20 @@
 
 ## 📫 Let's Connect
 
-  <a href="your-linkedin-url">
+  <a href="https://www.linkedin.com/in/corentin-poret-4981a2250/">
     <img src="https://img.icons8.com/material/48/61DAFB/linkedin.png" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="your-discord-url">
+  <a href="https://discord.gg/3gqGky9n">
     <img src="https://img.icons8.com/material/48/61DAFB/discord-logo.png" alt="Discord" />
   </a>
   &nbsp;&nbsp;
-  <a href="your-instagram-url">
+  <a href="https://www.instagram.com/juste.corentin/">
     <img src="https://img.icons8.com/material/48/61DAFB/instagram-new.png" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
-  <a href="your-x-url">
-    <img src="https://img.icons8.com/material/48/61DAFB/twitter.png" alt="X" />
+  <a href="https://x.com/poret_corentin?s=21">
+    <img src="https://img.icons8.com/ios-filled/48/61DAFB/x.png" alt="X" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:contact@timsolab.com">
@@ -31,11 +31,11 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://timsolab.com">
-    <img src="https://img.icons8.com/material/48/61DAFB/chrome.png" alt="TimsoLab" />
+    <img src="https://img.icons8.com/material/48/61DAFB/internet.png" alt="TimsoLab" />
   </a>
   &nbsp;&nbsp;
   <a href="https://corentinporet.com">
-    <img src="https://img.icons8.com/material/48/61DAFB/firefox.png" alt="Portfolio" />
+    <img src="https://img.icons8.com/material/48/61DAFB/portfolio.png" alt="Portfolio" />
   </a>
 
 ---
